@@ -49,11 +49,11 @@ int main()
 
         // if countNums == 0 or 1 or 2 or 3, then do, what you see in this if - else if
         if (countNums == 0)
-            cout << "Incorrect. 0 / 3 numbers is on its place.\n\n";
+            cout << "Incorrect. 0 / 3 numbers are on its place.\n\n";
         else if (countNums == 1)
-            cout << "Incorrect. 1 / 3 numbers is on its place.\n\n";
+            cout << "Incorrect. 1 / 3 number is on its place.\n\n";
         else if (countNums == 2)
-            cout << "Incorrect. 2 / 3 numbers is on its place.\n\n";
+            cout << "Incorrect. 2 / 3 numbers are on its place.\n\n";
         else if (countNums == 3)
         {
             cout << "It's correct! You won!\n";
